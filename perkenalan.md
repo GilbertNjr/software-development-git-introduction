@@ -11,7 +11,3 @@ Program Studi: Informatika
 
 ## Harapan Terhadap Mata Kuliah
 Saya berharap dapat memahami penggunaan Git dan GitHub dalam pengembangan software serta memahami workflow pengembangan perangkat lunak dengan baik.
-
-## Struktur Repository
-- README.md
-- perkenalan.md
